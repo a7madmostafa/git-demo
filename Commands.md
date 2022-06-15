@@ -19,3 +19,6 @@
 
 ## Pushing
 `git push`
+
+## Pulling
+`git pull`
