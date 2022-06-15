@@ -9,7 +9,7 @@
 `git status'
 
 ## Adding
-'git add <filename>`
+`git add <filename>`
 
 ## Undo Adding
-'git reset <filename>`
+`git reset <filename>`
