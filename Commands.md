@@ -28,3 +28,5 @@
 `git branch <NewBranch>`    >> Create NewBranch
 `git checkout <NewBranch>`  >> Switch to NewBranch
 
+## Merging
+`git merge main`
