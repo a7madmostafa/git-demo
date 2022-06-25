@@ -27,9 +27,9 @@
 `git pull`
 
 ## Branching
-`git branch`                >> Show Branches
-`git branch <NewBranch>`    >> Create NewBranch
-`git checkout <NewBranch>`  >> Switch to NewBranch
+* `git branch`                >> Show Branches
+* `git branch <NewBranch>`    >> Create NewBranch
+* `git checkout <NewBranch>`  >> Switch to NewBranch
 
 ## Merging
 `git merge main`
