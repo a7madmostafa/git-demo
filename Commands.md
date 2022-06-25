@@ -1,11 +1,14 @@
 # Commands
 
+## Init
+`git init`
+
 ## Cloning 
 `git clone <Repo link>`
 
 > You can use `ls` command to show all files in directory
 
-## Statue
+## Status
 `git status`
 
 ## Adding
