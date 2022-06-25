@@ -1,5 +1,7 @@
-
 # Commands
+
+## Initiating
+'git init'
 
 ## Cloning 
 `git clone <Repo link>`
